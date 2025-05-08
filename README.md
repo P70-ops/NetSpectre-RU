@@ -42,6 +42,6 @@ NetSpectre RU network analyzer
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourname/russian-packet-eye.git
+https://github.com/P70-ops/NetSpectre-RU.git
 cd packet-eye
 pip install -r requirements.txt
